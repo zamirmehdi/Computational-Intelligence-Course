@@ -1,7 +1,7 @@
 <!-- PROJECT INFO -->
 <br/>
 <div align="center">
-  <h2 align="center">Computational Intelligence</h2>
+  <h1 align="center">Computational Intelligence</h1>
   
   <p align="left">
     This repository contains 3 different projects completed during my undergraduate Computational Intelligence course.
