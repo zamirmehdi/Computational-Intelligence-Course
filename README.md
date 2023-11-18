@@ -35,7 +35,7 @@
 All projects are accompanied by their respective codes, necessary datasets (if required), and comprehensive documentation, which includes instructions and reports (in Persian).
 
 <h3> 1. Handwritten Digit Recognition </h3>
-Implemented multi-layered neural network model to classify and recognize the actual values of hand-written digits.
+Implemented a multi-layered neural network model from scratch to classify and recognize the actual values of hand-written digits. (`MNIST` Dataset is used for training and testing)
 
 <h3> 2. Fuzzy C-means </h3>
 Developed a model using fuzzy logic and the C-means algorithm for clustering numeric datasets.
