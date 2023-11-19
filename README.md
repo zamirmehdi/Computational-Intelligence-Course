@@ -4,7 +4,7 @@
   <h1 align="center">Computational Intelligence</h1>
   
   <p align="left">
-    This repository contains 3 different projects completed during my undergraduate Computational Intelligence course.
+    This repository contains <strong>3 different projects</strong>strong> completed during my undergraduate Computational Intelligence course.
     <br/>
   </p>
   
