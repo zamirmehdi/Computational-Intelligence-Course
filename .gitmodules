@@ -1,0 +1,6 @@
+[submodule "Handwritten-Digit-Recognition"]
+	path = Handwritten-Digit-Recognition
+	url = https://github.com/zamirmehdi/Handwritten-Digit-Recognition
+[submodule "Fuzzy-Cmeans-Clustering"]
+	path = Fuzzy-Cmeans-Clustering
+	url = https://github.com/zamirmehdi/Fuzzy-Cmeans-Clustering
