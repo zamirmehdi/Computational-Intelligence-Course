@@ -6,7 +6,7 @@ Collection of three comprehensive projects exploring evolutionary algorithms, fu
 [![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-orange.svg)](#)
 [![Pygame](https://img.shields.io/badge/Pygame-Game%20Development-green.svg)](#)
 
-## 📑 Table of Contents
+<details> <summary><h2>📚 Table of Contents</h2></summary>
 
 - [Overview](#-overview)
 - [Projects](#-projects)
@@ -14,23 +14,29 @@ Collection of three comprehensive projects exploring evolutionary algorithms, fu
   - [Fuzzy C-Means Clustering](#2-fuzzy-c-means-clustering)
   - [Handwritten Digit Recognition](#3-handwritten-digit-recognition)
 - [Repository Structure](#️-repository-structure)
-- [Technologies Used](#-technologies-used)
+- [Technologies Used](#%EF%B8%8F-technologies-used)
 - [Getting Started](#-getting-started)
 - [Project Information](#ℹ️-project-information)
 - [Related Courses](#-related-courses)
 - [Contact](#-contact)
+</details>
 
 ## 📋 Overview
 
-## 📋 Overview
+This repository contains three comprehensive projects completed during my undergraduate Computational Intelligence course at Amirkabir University of Technology. Each project demonstrates fundamental concepts in computational intelligence through practical, from-scratch implementations:
 
-This repository contains three comprehensive projects completed during my undergraduate Computational Intelligence course. Each project demonstrates fundamental concepts in computational intelligence through practical implementations:
-
-1. **Evolutionary AI Game** - Neuroevolution using genetic algorithms
-2. **Fuzzy C-Means Clustering** - Unsupervised learning with fuzzy logic
-3. **Handwritten Digit Recognition** - Neural network classification on MNIST
+1. **Evolutionary AI Game** - Neuroevolution using genetic algorithms for game-playing agents
+2. **Fuzzy C-Means Clustering** - Soft clustering with fuzzy logic and membership degrees
+3. **Handwritten Digit Recognition** - Multi-layer neural network with backpropagation on MNIST
 
 All projects are accompanied by their respective codes, necessary datasets (if required), and comprehensive documentation, which includes instructions and reports (in Persian).
+
+**Course Focus:**
+- Evolutionary computation and genetic algorithms
+- Fuzzy logic and soft computing
+- Neural networks and deep learning fundamentals
+- Optimization algorithms
+- Pattern recognition and classification
 
 ## 📚 Projects
 
@@ -177,10 +183,10 @@ Detailed instructions are available in each project's directory.
 
 ## ℹ️ Project Information
 
+**Author:** Amirmehdi Zarrinnezhad  
 **Course:** Computational Intelligence  
-**University:** Amirkabir University of Technology (Tehran Polytechnic)  
-**Semester:** Spring 2021  
-**Author:** Amirmehdi Zarrinnezhad
+**University:** Amirkabir University of Technology (Tehran Polytechnic) - Spring 2021  
+**Repository Link:** [Computational-Intelligence-Course](https://github.com/zamirmehdi/Computational-Intelligence-Course)
 
 ## 🔗 Related Courses
 
@@ -200,6 +206,14 @@ Questions or collaborations? Feel free to reach out!
 **🌐 GitHub:** [@zamirmehdi](https://github.com/zamirmehdi)
 
 ---
+
+<div align="center">
+
+[⬆ Back to Main Repository](https://github.com/zamirmehdi/Computational-Intelligence-Course)
+
+</div>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <div align="center">
 
