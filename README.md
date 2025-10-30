@@ -207,11 +207,6 @@ Questions or collaborations? Feel free to reach out!
 
 ---
 
-<div align="center">
-
-[⬆ Back to Main Repository](https://github.com/zamirmehdi/Computational-Intelligence-Course)
-
-</div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
