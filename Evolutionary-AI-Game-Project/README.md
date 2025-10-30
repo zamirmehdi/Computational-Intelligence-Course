@@ -6,7 +6,7 @@ Neuroevolution system that trains neural networks to play games using genetic al
 [![Pygame](https://img.shields.io/badge/Pygame-Game%20Framework-green.svg)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-Computation-orange.svg)](#)
 
-## 📑 Table of Contents
+<details> <summary><h2>📚 Table of Contents</h2></summary>
 
 - [Overview](#-overview)
 - [Game Modes](#-game-modes)
@@ -22,6 +22,7 @@ Neuroevolution system that trains neural networks to play games using genetic al
 - [Results](#-results)
 - [Project Information](#ℹ️-project-information)
 - [Contact](#-contact)
+</details>
 
 ## 📋 Overview
 
