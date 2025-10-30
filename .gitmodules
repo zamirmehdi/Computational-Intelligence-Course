@@ -1,6 +1,0 @@
-[submodule "Handwritten-Digit-Recognition-Project"]
-	path = Handwritten-Digit-Recognition-Project
-	url = https://github.com/zamirmehdi/Handwritten-Digit-Recognition
-[submodule "Fuzzy-Cmeans-Project"]
-	path = Fuzzy-Cmeans-Project
-	url = https://github.com/zamirmehdi/Fuzzy_C-means
