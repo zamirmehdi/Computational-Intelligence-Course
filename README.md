@@ -1,4 +1,4 @@
-<h1 align="center">Computational Intelligence</h1>#
+<h1 align="center">Computational Intelligence</h1>
 
 Collection of three comprehensive projects exploring evolutionary algorithms, fuzzy logic, and neural networks from the Computational Intelligence course at Amirkabir University of Technology.
 
